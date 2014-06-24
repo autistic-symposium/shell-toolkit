@@ -1,0 +1,45 @@
+############################################################
+# byt3gl's  root .bashrc (partially modified for publishing)
+############################################################
+#
+##
+#    1) .bashrc is the *non-login* config for bash, run in scripts and after
+#        first connection.
+#
+#    2) .bash_profile is the *login* config for bash, launched upon first
+#        connection (in Ubuntu)
+#
+#    3) .bash_profile imports .bashrc in our script, but not vice versa.
+#
+#    4) .bashrc imports .bashrc_custom in our script, which can be used to
+#        override variables specified here.
+#
+
+
+
+######################################################
+# GLOBAL DEFINITIONS
+######################################################
+# Source global definitions
+if [ -f /etc/bashrc ]; then
+  . /etc/bashrc
+fi
+
+
+
+
+######################################################
+# ALIASES
+######################################################
+
+alias rm='rm -i'
+alias cp='cp -i'
+alias mv='mv -i'
+
+
+######################################################
+# PRETTY STUFF
+######################################################
+
+# SET TO RED
+PS1='\[\e[1;31m\]\A \H> \u \w:\[\e[m\]\[\e[1;38m\] '
