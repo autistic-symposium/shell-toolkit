@@ -1,0 +1,41 @@
+For files with many columns:
+===========================
+
+$ cut -f2 NAMEFILE  --> display the second column
+$ cut -f1 NAMEFILE  --> display first column
+$ paste FILE1 FILE2  --> join the columns together of two files
+$ join FILE1 FILES2  --> join separate files but only if there is common field in both files with identical values
+
+
+Changing the contend of files:
+==============================
+
+CHARACTERS:
+----------
+
+$ tr "h2" "3x" < FILENAME --> changes all h to 3 and all 2 to x
+
+
+WORDS:
+------
+$ sed expression file
+$ sed '/tea/s//milk/g' FILENAME
+
+/tea/ --> find tea word
+s//milk/ --> replace (substitute) the word milk for tea
+g --> make the changes globally
+
+
+DUPLICATES:
+-----------
+
+Print LINES that are unique.
+$ uniq FILENAME
+
+Duplicate lines must be next to next to each other, so it's better to sort first:
+$ sort FILENAME | uniq
+
+
+Ex
+--
+$ ex FILENAME --> start the editor

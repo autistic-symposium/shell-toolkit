@@ -50,4 +50,48 @@ Useful Cmds:
 List size of folders
 $ du -sh *
 
+Print calendar:
+$ cal
 
+Writing and creating a file:
+$ cat > NEWFILE
+
+--- write here ---
+^D
+
+
+De-bug Shell Script
+-------------------
+
+Use -v and -x option:
+$ sh option SCRIPT
+$ bash option SCRIPT
+
+
+Local and Global Variables
+-------------------------
+
+Whenever you type:
+$ /bin/bash
+You start a new shell where the previous variables will be forgotten (local variables). To make variables global, you can do:
+$ export VARIABLE-NAME
+Before changing shell.
+
+
+Conditional Execution
+---------------------
+
+The control operators are && (AND) and || (OR).
+$ rm myf && echo "File is removed successfully" || echo "File is not removed"
+
+
+Functions
+---------
+
+$ SayHello()
+{
+   echo "Hello $LOGNAME, Have nice computing"
+   return
+}
+To execute this SayHello() function just type it name as follows:
+$ SayHello
