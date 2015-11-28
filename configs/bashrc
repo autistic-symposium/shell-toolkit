@@ -1,5 +1,5 @@
 ######################################################
-# byt3gl's .bashrc (partially modified for publishing)
+# bt3's .bashrc (partially modified for publishing)
 ######################################################
 #
 ##
@@ -168,17 +168,6 @@ export GREP_COLOR='1;31' # green for matches
 export CLICOLOR=230
 export HISTFILESIZE=3000
 export HISTCONTROL=ignoredups
-
-
-
-
-######################################################
-# ALIAS TO CONNECTIONS
-######################################################
-
-
-
-
 
 
 ######################################################
