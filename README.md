@@ -1,7 +1,11 @@
-🐯 Dotfiles and Scripts 🐯
-====================
+# 🐯 Dotfiles and Scripts 🐯
 
-Some sample of my shell scripts and config files (note: this is kinda like from decaaaaades ago, but have fun).
+
+* useful shell scripts.
+* useful config files and dotfiles.
+* ELK shell scripts.
+* data science quick scripts.
+* Suricata shell scripts and config files.
 
 😈 OBVIOUSLY I DON'T INCLUDE SENSITIVE PARTS 😈
 
