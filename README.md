@@ -3,6 +3,7 @@
 
 * useful shell scripts.
 * useful config files and dotfiles.
+* gcloud shell scripts.
 * ELK shell scripts.
 * data science quick scripts.
 * Chef useful commands.
