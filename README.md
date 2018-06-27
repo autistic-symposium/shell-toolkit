@@ -1,6 +1,6 @@
 # 🐯 Dotfiles and Scripts 🐯
 
-This is a repository where I dump *my* random scripts and configs from the last many years. Enjoy!
+This is a repository where I have been dumping my random scripts and configs from the last many years. Enjoy!
 ----
 
 
