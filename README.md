@@ -1,17 +1,6 @@
 # 🐯 Dotfiles and Scripts 🐯
 
-
-* useful shell scripts.
-* useful config files and dotfiles.
-* gcloud shell scripts.
-* ELK shell scripts.
-* data science quick scripts.
-* Chef useful commands.
-
-😈 OBVIOUSLY I DON'T INCLUDE SENSITIVE PARTS 😈
-
-
-
+This is a repository where I dump *my* random scripts and configs from the last many years. Enjoy!
 ----
 
 
