@@ -8,11 +8,11 @@ I really hope the Universe will help me to never see your face again, and I am r
 
 ---
 
-And here, my friends, another case of a white male that did all he could to demoralize a latina foreigner woman in a our world. And he cannot stop. Trump++. 
+And here, my friends, another case of a white male that did all he could to demoralize a latina foreigner woman in our world. And he cannot stop. Trump++. 
 
 Guess what, you are not the first and you won't be the last.
 
-In other times of my life I would feel self-conscious and think I am just not good enough and I don't belong here. Thankfully today I know I am awesome and I will not let sexism, prejudice, xenophoby take my credit and my worth away. 
+In other times of my life I would feel self-conscious and think I am just not good enough and I don't belong here. Thankfully today I know I am awesome and I will not let sexism, prejudice, xenophobia take my credit and my worth. 
 
 You can keep trying but I am not going to stop. I am going to conquer the world.
 
