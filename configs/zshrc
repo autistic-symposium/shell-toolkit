@@ -1,0 +1,47 @@
+# If you come from bash you might have to change your $PATH.
+export PATH=$HOME/bin:/usr/local/bin:$PATH
+
+# Path to your oh-my-zsh installation.
+export ZSH=$HOME/.oh-my-zsh
+
+# Set name of the theme to load --- if set to "random", it will
+# load a random theme each time oh-my-zsh is loaded, in which case,
+# to know which specific one was loaded, run: echo $RANDOM_THEME
+# See https://github.com/robbyrussell/oh-my-zsh/wiki/Themes
+ZSH_THEME="robbyrussell"
+
+# Which plugins would you like to load?
+plugins=(git extract web-search yum git-extras docker vagrant)
+
+
+######################################################
+# PERSONAL ALIASES
+######################################################
+
+alias home='cd ~'
+alias rm='rm -i'
+alias cp='cp -i'
+alias mv='mv -i'
+alias mkdir='mkdir -p'
+alias h='history'
+alias j='jobs -l'
+alias which='type -a'
+alias ..='cd ..'
+alias jup="jupyter notebook"
+alias du='du -kh'    # Makes a more readable output.
+alias df='df -kTh'
+alias dc="docker-compose"
+alias dcrun="docker-compose run --rm"
+
+
+######################################################
+# EXPORT OPTIONS
+######################################################
+
+export GREP_OPTIONS='--color=auto'
+export GREP_COLOR='1;31' # green for matches
+export CLICOLOR=230
+export HISTCONTROL=ignoredups
+
+
+source $ZSH/oh-my-zsh.sh
