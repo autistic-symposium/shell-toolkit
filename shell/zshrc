@@ -44,4 +44,17 @@ export CLICOLOR=230
 export HISTCONTROL=ignoredups
 
 
+#####################################################
+# FUNCTIONS
+#####################################################
+
+function h() {
+	if [ -z "$*" ]; then
+		history 1
+	else
+		history 1 | egrep --color=auto "$@"
+	fi
+}
+
+
 source $ZSH/oh-my-zsh.sh
