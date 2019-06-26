@@ -3,15 +3,28 @@ export PATH=$HOME/bin:/usr/local/bin:$PATH
 
 # Path to your oh-my-zsh installation.
 export ZSH=$HOME/.oh-my-zsh
+export ZPLUG_HOME=/usr/local/opt/zplug
+source $ZPLUG_HOME/init.zsh
+source $ZSH/oh-my-zsh.sh
+source "${HOME}/.zgen/zgen.zsh"
 
 # Set name of the theme to load --- if set to "random", it will
 # load a random theme each time oh-my-zsh is loaded, in which case,
 # to know which specific one was loaded, run: echo $RANDOM_THEME
 # See https://github.com/robbyrussell/oh-my-zsh/wiki/Themes
-ZSH_THEME="robbyrussell"
+# See https://github.com/denysdovhan/spaceship-prompt
+ZSH_THEME="spaceship"
 
 # Which plugins would you like to load?
 plugins=(git extract web-search yum git-extras docker vagrant)
+zgen load denysdovhan/spaceship-prompt spaceship
+zplug 'zplug/zplug', hook-build:'zplug --self-manage'
+zplug denysdovhan/spaceship-prompt, use:spaceship.zsh, from:github, as:theme
+source ~/.zplug/init.zsh
+
+# Set Spaceship ZSH as a prompt
+autoload -U promptinit; promptinit
+prompt spaceship
 
 
 ######################################################
@@ -57,4 +70,4 @@ function h() {
 }
 
 
-source $ZSH/oh-my-zsh.sh
+
