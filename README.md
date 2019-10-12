@@ -1,14 +1,11 @@
-# 🐯 Dotfiles and Scripts 🐯
+# Dotfiles and Useful Scripts 
 
-This is a repository where I have been dumping my random scripts and configs from the last many years. Enjoy!
+All shell things: random scripts, configs, dotfiles, etc.
 
 ----
 
 
 ## License
 
-When making a reference to my work, please use my [website](http://singularity.sh).
-
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />
-
+When making a reference to my work, please use my [website](http://bt3gl.github.io).
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
