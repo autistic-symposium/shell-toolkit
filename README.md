@@ -15,3 +15,6 @@
 * [ubuntu](https://github.com/bt3gl/Resources-Shell_Scripts_and_Dotfiles/tree/master/ubuntu).
 * [funny](https://github.com/bt3gl/Resources-Shell_Scripts_and_Dotfiles/tree/master/funny).
 
+---
+
+<a href="https://www.buymeacoffee.com/miavonpizza" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/arial-pink.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
