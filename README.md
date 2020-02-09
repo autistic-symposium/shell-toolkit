@@ -1,4 +1,4 @@
-# Dotfiles, Shell scripts, and other scripts 
+# Dotfiles, Shellscripts, and other scripts 
 
 * [bash scripts](https://github.com/bt3gl/Resources-Shell_Scripts_and_Dotfiles/tree/master/shell_scripts).
 * [awk](https://github.com/bt3gl/Resources-Shell_Scripts_and_Dotfiles/tree/master/awk).
