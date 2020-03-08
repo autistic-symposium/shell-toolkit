@@ -5,6 +5,7 @@
 * [chef](https://github.com/bt3gl/Resources-Shell_Scripts_and_Dotfiles/tree/master/chef).
 * [git](https://github.com/bt3gl/Resources-Shell_Scripts_and_Dotfiles/tree/master/git).
 * [tmux](https://github.com/bt3gl/Resources-Shell_Scripts_and_Dotfiles/tree/master/tmux).
+* [iterm](https://github.com/bt3gl/Resources-Shell_Scripts_and_Dotfiles/tree/master/iterm).
 * [network](https://github.com/bt3gl/Resources-Shell_Scripts_and_Dotfiles/tree/master/network).
 * [gcloud](https://github.com/bt3gl/Resources-Shell_Scripts_and_Dotfiles/tree/master/gcloud).
 * [vim](https://github.com/bt3gl/Resources-Shell_Scripts_and_Dotfiles/tree/master/vim).
