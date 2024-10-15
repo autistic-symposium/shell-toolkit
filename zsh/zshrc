@@ -1,0 +1,47 @@
+###########
+# Exports  
+###########
+
+export PATH="$HOME/go/bin/:$PATH"
+export GOPATH=$HOME/go
+export GOROOT=/usr/local/opt/go/libexec
+export PATH=$PATH:$GOPATH/bin
+export PATH=$PATH:$GOROOT/bin
+
+export KUBECONFIG=~/.kube/config
+export KUBECTX_CURRENT_FGCOLOR=$(tput setaf 3) 
+export KUBECTX_CURRENT_BGCOLOR=$(tput setab 5) 
+
+export HISTCONTROL=ignoredups
+export CLICOLOR=230
+export GREP_COLOR='1;31' # green for matches
+export GREP_OPTIONS='--color=auto'
+
+export ZSH="/Users/mia/.oh-my-zsh"
+ZSH_THEME="robbyrussell"
+
+
+###########
+# PLUGINS ✨
+############
+
+plugins=(git)
+source $ZSH/oh-my-zsh.sh
+
+
+##########
+# ALIAS ✨
+##########
+
+alias fly="/usr/local/opt/fly"
+alias zshconfig="mate ~/.zshrc"
+alias ohmyzsh="mate ~/.oh-my-zsh"
+alias code="open -a 'Visual Studio Code'"
+
+alias gc="git commit"
+alias ga="git add"
+alias gp="git push"
+alias gp="git pull"
+
+alias k="kubectl"
+
