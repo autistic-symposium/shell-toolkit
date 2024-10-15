@@ -3,19 +3,26 @@ Data Manipulation
 
 
 Print elements in the column 3 that has the word "good" in the other columns
+
+```
 $ awk '/good/ { print $3 }' inventory
+```
 
 Syntax:
+
+```
 $ awk -f {PROGRAM FILE} FILENAME
+```
 
 awk program is:
 
+```
 PATTERN{
   ACTION 1
   ACTION 2
   ACTION 3
 }
-
+```
 
 . (Dot) Match any character
 * Match zero or more character
@@ -30,9 +37,10 @@ $ Match end of line
 
 
 
-IF CONDITION
+IF condition
 ------------
 
+```
 if (condition)
 {
   Statement 1
@@ -47,7 +55,5 @@ else
   Statement N
   if condition is FALSE
 }
+```
 
-
-FOR LOOP
---------
