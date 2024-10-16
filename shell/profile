@@ -147,7 +147,7 @@ function sanitize() { chmod -R u=rwX,g=rX,o= "$@" ;}
 export PATH="/usr/local/opt/openssl/bin:$PATH"
 
 # The next line updates PATH for the Google Cloud SDK.
-if [ -f '/Users/mia/Desktop/google-cloud-sdk/path.bash.inc' ]; then . '/Users/mia/Desktop/google-cloud-sdk/path.bash.inc'; fi
+if [ -f '<PATH TO SCRIPT>/google-cloud-sdk/path.bash.inc' ]; then . '/Users/mia/Desktop/google-cloud-sdk/path.bash.inc'; fi
 
 # The next line enables shell command completion for gcloud.
-if [ -f '/Users/mia/Desktop/google-cloud-sdk/completion.bash.inc' ]; then . '/Users/mia/Desktop/google-cloud-sdk/completion.bash.inc'; fi
+if [ -f '<PATH TO SCRIPT>/google-cloud-sdk/completion.bash.inc' ]; then . '/Users/mia/Desktop/google-cloud-sdk/completion.bash.inc'; fi

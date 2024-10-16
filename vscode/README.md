@@ -4,7 +4,7 @@
 <br>
 
 
-### favorite themmes
+### favorite themes
 
 
 * **[cyberpunk 2077 rebuild](https://marketplace.visualstudio.com/items?itemName=Carlos18mz.cyberpunk-2077-rebuild)**
