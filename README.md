@@ -2,22 +2,25 @@
 
 <br>
 
-* **[shell scripts](shell_scripts)**
+### dirs in  this repo
+
+<br>
+
 * **[awk](awk)**
 * **[chef](chef)**
-* **[git](git)**
-* **[pgp](gpg)**
-* **[tmux](tmux)**
-* **[iterm](iterm)**
-* **[network](network)**
-* **[gcloud](gcloud)**
-* **[vim](vim)**
-* **[vscode](vscode)**
-* **[vpn](vpn)**
-* **[elastic search](elasticsearch)**
 * **[data science](data_science)**
-* **[ubuntu](ubuntu)**
+* **[elastic search](elasticsearch)**
 * **[funny](funny)**
+* **[gcloud](gcloud)**
+* **[git](git)**
+* **[gpg](gpg)**
+* **[iterm](iterm)**
+* **[shell](shell)**
+* **[tmux](tmux)**
+* **[vim](vim)**
+* **[vpn](vpn)**
+* **[vscode](vscode)**
+
 
 <br>
 

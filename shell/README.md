@@ -1,9 +1,11 @@
-# Some Quick and Useful Shell Commands
+## some quick and useful shell commands
 
 <br>
 
 
-## Downloading all pdfs of url
+* downloading all pdfs of url
+
+<br>
 
 ```shell
 $ wget --recursive --level=2 --no-directories --no-host-directories --accept pdf
@@ -11,7 +13,8 @@ $ wget --recursive --level=2 --no-directories --no-host-directories --accept pdf
 
 <br>
 
-## Extended attributes of files
+
+* extended attributes of files
 
 ```shell
 $ xattr -l $file
@@ -19,7 +22,7 @@ $ xattr -l $file
 
 <br>
 
-## Check signatures of Apps
+* check signatures of apps
 
 <br>
 
@@ -29,7 +32,7 @@ $ codesign -dvvv $file.app
 
 <br>
 
-## Show all the configs
+* show all the configs
 
 <br>
 
@@ -39,7 +42,7 @@ $ system_profiler -detaillevel full
 
 <br>
 
-## 瑪麗
+*  瑪麗
 
 
 <br>

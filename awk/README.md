@@ -1,20 +1,25 @@
-Data Manipulation
------------------
+## awk
+
+<br>
 
 
-Print elements in the column 3 that has the word "good" in the other columns
+### data manipulation
+
+<br>
+
+* print elements in the column 3 that has the word "good" in the other columns
 
 ```
 $ awk '/good/ { print $3 }' inventory
 ```
 
-Syntax:
+* syntax:
 
 ```
 $ awk -f {PROGRAM FILE} FILENAME
 ```
 
-awk program is:
+* awk program is:
 
 ```
 PATTERN{
@@ -24,6 +29,9 @@ PATTERN{
 }
 ```
 
+with
+
+```
 . (Dot) Match any character
 * Match zero or more character
 ^ Match beginning of line
@@ -34,11 +42,15 @@ $ Match end of line
 + Match one more preceding
 ? Match zero or one preceding
 | Separate choices to match
+```
 
+<br>
 
+---
 
-IF condition
-------------
+### if condition
+
+<br>
 
 ```
 if (condition)
