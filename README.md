@@ -2,7 +2,7 @@
 
 <br>
 
-* **[bash scripts](shell_scripts)**
+* **[shell scripts](shell_scripts)**
 * **[awk](awk)**
 * **[chef](chef)**
 * **[git](git)**

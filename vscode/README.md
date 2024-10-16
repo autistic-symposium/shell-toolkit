@@ -1,4 +1,23 @@
-# Vscode plugins
+## vscode 
+
+
+<br>
+
+
+### favorite themmes
+
+
+* **[cyberpunk 2077 rebuild](https://marketplace.visualstudio.com/items?itemName=Carlos18mz.cyberpunk-2077-rebuild)**
+* **[kauai](https://marketplace.visualstudio.com/items?itemName=diff001a.kawaii-theme)**
+
+
+<br>
+
+---
+
+### cool plugins
+
+<br>
 
 * Auto Import
 * Code Spell Checker
@@ -22,13 +41,16 @@
 * Commitizen Support
 * styled-components
 
-## Useful Shortcuts
+<br>
 
-* Open the terminal with:
+----
 
-```
-^` 
-```
+<br>
+
+### cool tricks
+
+<br>
+
 * add this alias to your shell profile (e.g. `~/.zshrc`):
 
 ```
