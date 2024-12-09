@@ -3,9 +3,14 @@
 
 <br>
 
+* **[ai integration with cursor](https://www.cursor.com/)**
+* **[remote devlopment with ssh](https://code.visualstudio.com/docs/remote/ssh)**
 
-### favorite themes
+<br>
 
+### cool themes
+
+<br>
 
 * **[cyberpunk 2077 rebuild](https://marketplace.visualstudio.com/items?itemName=Carlos18mz.cyberpunk-2077-rebuild)**
 * **[kauai](https://marketplace.visualstudio.com/items?itemName=diff001a.kawaii-theme)**
@@ -19,6 +24,7 @@
 
 <br>
 
+* **[github co-pilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)**
 * Auto Import
 * Code Spell Checker
 * Debugger for Chrome
@@ -40,6 +46,8 @@
 * Simple React Snippets
 * Commitizen Support
 * styled-components
+* **[rust crates](https://marketplace.visualstudio.com/items?itemName=serayuzgur.crates)**
+* **[rust analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)**
 
 <br>
 
