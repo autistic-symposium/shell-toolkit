@@ -20,7 +20,7 @@
 * **[vim](vim)**
 * **[vpn](vpn)**
 * **[vscode](vscode)**
-
+* **[rooting](rooting)**
 
 <br>
 
