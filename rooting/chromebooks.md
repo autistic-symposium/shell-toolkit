@@ -15,13 +15,16 @@
 * figure out if your device is supported **[here](https://docs.mrchromebox.tech/docs/firmware/wp/disabling.html)**
 * open up your chromebook
 * locate and remove the WP pin on the firmware flash chip - this is how it looks like on acer series c0731:
-* close your chromebook
 
 <br>
 
 <p align="center">
 <img src="c0731.png" width="80%"/>
 </p>
+
+<br>
+
+* close your chromebook
 
 <br>
 
