@@ -98,5 +98,15 @@ git config http.postBuffer 524288000
 
 <br>
 
+---
 
+### setup notifications for commits
+
+<br>
+
+* the simplest way is using a rss feed on this endpoint:
+  
+```
+https://api.github.com/repos/<username>/<repo>/events
+```
 
